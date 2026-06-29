@@ -4,7 +4,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hy There 👋</p>
+<h1 data-importer="text" align="center">Hy There 👋</h1>
 
 ###
 
