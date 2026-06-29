@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-I'm a full-stack developer passionate about building scalable web applications and exploring AI.
-
 ## 🚀 Tech
 
 - Python
