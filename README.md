@@ -18,4 +18,3 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Kovatsug&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kovatsug&layout=compact&theme=tokyonight)
