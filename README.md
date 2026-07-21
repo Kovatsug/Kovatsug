@@ -4,7 +4,6 @@
 
 - Python
 
-
 ## 🌱 Currently Learning
 
 - Python
